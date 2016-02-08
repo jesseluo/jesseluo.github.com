@@ -2,7 +2,6 @@
 layout: post
 title: "豆瓣猜之豆友猜"
 date: 2012-12-01 18:09
-comments: true
 categories: 产品
 tags: [豆瓣, 豆瓣猜, Douban, 兴趣]
 ---

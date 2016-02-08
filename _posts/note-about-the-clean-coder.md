@@ -2,7 +2,6 @@
 layout: post
 title: "读书笔记——《程序员的职业素养》"
 date: 2012-11-23 23:01
-comments: true
 categories: 读书笔记
 tags: [程序员, 职业发展, 职业素养, Bob大叔, Robert C.Martin, TDD]
 ---
