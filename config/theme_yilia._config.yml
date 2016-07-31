@@ -7,12 +7,12 @@ menu:
 
 # SubNav
 subnav:
-  weibo: "http://weibo.com/radishchrist"
-  rss: "/atom.xml"
-  zhihu: "www.zhihu.com/people/jesse_luo"
+  # weibo: "http://weibo.com/radishchrist"
+  github: "https://github.com/jesseluo"
+  zhihu: "http://www.zhihu.com/people/jesse_luo"
   linkedin: "https://cn.linkedin.com/in/jesseluo"
   douban: "http://www.douban.com/people/Jesse_Luo/"
-  github: "https://github.com/jesseluo"
+  rss: "/atom.xml"
   # mail: "radishchrist@gmail.com"
   #facebook: "#"
   #google: "#"
@@ -62,4 +62,4 @@ friends: false
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
+# aboutme: 我是 Jesse Luo
