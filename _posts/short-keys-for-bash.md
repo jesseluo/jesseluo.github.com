@@ -2,7 +2,7 @@
 layout: post
 title: "Bash组合键"
 date: 2012-03-29 12:34
-categories: 其它技术
+categories: General Dev
 tags: [Bash, 组合键, 快捷键]
 ---
 

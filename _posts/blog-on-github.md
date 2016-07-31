@@ -2,7 +2,7 @@
 layout: post
 title: "在Github上使用Octopress部署自己的博客"
 date: 2012-11-23 22:57
-categories: 其它技术
+categories: General Dev
 tags: [前端, Github, blog, Jekyll, 博客, Octopress]
 ---
 

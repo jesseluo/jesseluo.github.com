@@ -1,7 +1,7 @@
 ---
 title: 2015年度计划
 date: 2015-02-23 00:49
-categories: 生活
+categories: Life
 tags: [新年, 计划]
 ---
 

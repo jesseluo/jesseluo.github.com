@@ -2,7 +2,7 @@
 layout: post
 title: "读书笔记——《程序员的职业素养》"
 date: 2012-11-23 23:01
-categories: 读书笔记
+categories: Book Review
 tags: [程序员, 职业发展, 职业素养, Bob大叔, Robert C.Martin, TDD]
 ---
 《程序员的职业素养》（英文名: The Clean Coder：A Code of Conduct for Professional Programmers）是最近读的一本好书，作者是大名鼎鼎的Bob大叔。这本书里系统的讲述了作为一名“专业人士”所应有的态度及需要掌握的基本方法论。读来受益匪浅，尤其适合我等初级码农。  
